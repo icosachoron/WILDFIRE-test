@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//github.com/icosachoron.github.io/WILDFIRE-test/static/css/main.42c3e24f.css",
-    "main.js": "//github.com/icosachoron.github.io/WILDFIRE-test/static/js/main.ecd62cae.js",
-    "static/js/453.a9ec6e64.chunk.js": "//github.com/icosachoron.github.io/WILDFIRE-test/static/js/453.a9ec6e64.chunk.js",
-    "index.html": "//github.com/icosachoron.github.io/WILDFIRE-test/index.html",
-    "main.42c3e24f.css.map": "//github.com/icosachoron.github.io/WILDFIRE-test/static/css/main.42c3e24f.css.map",
-    "main.ecd62cae.js.map": "//github.com/icosachoron.github.io/WILDFIRE-test/static/js/main.ecd62cae.js.map",
-    "453.a9ec6e64.chunk.js.map": "//github.com/icosachoron.github.io/WILDFIRE-test/static/js/453.a9ec6e64.chunk.js.map"
+    "main.css": "/WILDFIRE-test/static/css/main.42c3e24f.css",
+    "main.js": "/WILDFIRE-test/static/js/main.cdd85f85.js",
+    "static/js/453.a9ec6e64.chunk.js": "/WILDFIRE-test/static/js/453.a9ec6e64.chunk.js",
+    "index.html": "/WILDFIRE-test/index.html",
+    "main.42c3e24f.css.map": "/WILDFIRE-test/static/css/main.42c3e24f.css.map",
+    "main.cdd85f85.js.map": "/WILDFIRE-test/static/js/main.cdd85f85.js.map",
+    "453.a9ec6e64.chunk.js.map": "/WILDFIRE-test/static/js/453.a9ec6e64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42c3e24f.css",
-    "static/js/main.ecd62cae.js"
+    "static/js/main.cdd85f85.js"
   ]
 }
